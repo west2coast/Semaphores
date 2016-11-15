@@ -1,8 +1,7 @@
-    /*
-    *  Created by Chris West due 11/15/16.
-    *  Copyright © 2016 Chris West. All rights reserved.
-    */
-
+/*
+* Created by Chris West started 11/03/16 - 11/15/16.
+* Copyright © 2016 Chris West. All rights reserved.
+*/
 #include <iostream>
 #include <pthread.h>
 #include <semaphore.h>
@@ -28,7 +27,6 @@ int emp, ful = 0, mut, arg;
 pthread_t proID,conID;
 int main() {
     srand (static_cast<int>(time(NULL)));
-    while (1 > 0){
     sem_init(&empty, 2, 1);
     sem_init(&full, 0, 0);
     sem_init(&mutex, 0, 1);
@@ -39,7 +37,6 @@ int main() {
     sem_destroy(&empty);
     sem_destroy(&full);
     sem_destroy(&mutex);
-    }
     pthread_exit(NULL);
         
     return 0;
@@ -60,13 +57,11 @@ void *producer(void* arg){
         sem_post(&full);
         p++;
         counter++;
-        if(p==input){
-            break;
-            
+        if(p == input){
+            break;  
         }
         
-    }while(true);
-    
+    } while(true);   
     
 }
 
@@ -94,13 +89,13 @@ void *consumer(void *arg){
         
         
         if(count == input){
-            
             break;
         }
-    }while(true);
+    } while(true);
     
     pthread_exit(NULL);
 }
+
 string createMessage(string message){
     int random = rand() % 26 + 1; // number % 26
     int letter1 = (random - 1) % 27, letter2 = (random) % 27 , letter3 = (random + 1) % 27;
@@ -112,7 +107,6 @@ string createMessage(string message){
     cout << "Producer: " << message << ", " << random << endl;
     return message;
 }
-
 
 int vowel(string message){
     char vowels[] = {'a','e','i','o','u'};
