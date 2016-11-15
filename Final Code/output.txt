@@ -1,0 +1,510 @@
+Producer: pqr, 17
+Consumer: fgh
+No vowels.
+Producer: xyz, 25
+Consumer: pqr
+No vowels.
+Producer: stu, 20
+Consumer: xyz
+No vowels.
+Producer: jkl, 11
+Consumer: stu
+There is 1 vowel.
+Producer: def, 5
+Consumer: jkl
+No vowels.
+Producer: wxy, 24
+Consumer: def
+There is 1 vowel.
+Producer: pqr, 17
+Consumer: wxy
+No vowels.
+Producer: yza, 26
+Consumer: pqr
+No vowels.
+Producer: hij, 9
+Consumer: yza
+There is 1 vowel.
+Producer: fgh, 7
+Consumer: hij
+There is 1 vowel.
+Producer: klm, 12
+Consumer: fgh
+No vowels.
+Producer: qrs, 18
+Consumer: klm
+No vowels.
+Producer: mno, 14
+Consumer: qrs
+No vowels.
+Producer: klm, 12
+Consumer: mno
+There is 1 vowel.
+Producer: pqr, 17
+Consumer: klm
+No vowels.
+Producer: fgh, 7
+Consumer: pqr
+No vowels.
+Producer: tuv, 21
+Consumer: fgh
+No vowels.
+Producer: def, 5
+Consumer: tuv
+There is 1 vowel.
+Producer: ijk, 10
+Consumer: def
+There is 1 vowel.
+Producer: vwx, 23
+Consumer: ijk
+There is 1 vowel.
+Producer: stu, 20
+Consumer: vwx
+No vowels.
+Producer: opq, 16
+Consumer: stu
+There is 1 vowel.
+Producer: pqr, 17
+Consumer: opq
+There is 1 vowel.
+Producer: wxy, 24
+Consumer: pqr
+No vowels.
+Producer: pqr, 17
+Consumer: wxy
+No vowels.
+Producer: zab, 1
+Consumer: pqr
+No vowels.
+Producer: ghi, 8
+Consumer: zab
+There is 1 vowel.
+Producer: opq, 16
+Consumer: ghi
+There is 1 vowel.
+Producer: cde, 4
+Consumer: opq
+There is 1 vowel.
+Producer: yza, 26
+Consumer: cde
+There is 1 vowel.
+Producer: wxy, 24
+Consumer: yza
+There is 1 vowel.
+Producer: uvw, 22
+Consumer: wxy
+No vowels.
+Producer: wxy, 24
+Consumer: uvw
+There is 1 vowel.
+Producer: qrs, 18
+Consumer: wxy
+No vowels.
+Producer: ghi, 8
+Consumer: qrs
+No vowels.
+Producer: abc, 2
+Consumer: ghi
+There is 1 vowel.
+Producer: nop, 15
+Consumer: abc
+There is 1 vowel.
+Producer: xyz, 25
+Consumer: nop
+There is 1 vowel.
+Producer: bcd, 3
+Consumer: xyz
+No vowels.
+Producer: xyz, 25
+Consumer: bcd
+No vowels.
+Producer: fgh, 7
+Consumer: xyz
+No vowels.
+Producer: pqr, 17
+Consumer: fgh
+No vowels.
+Producer: qrs, 18
+Consumer: pqr
+No vowels.
+Producer: stu, 20
+Consumer: qrs
+No vowels.
+Producer: abc, 2
+Consumer: stu
+There is 1 vowel.
+Producer: ijk, 10
+Consumer: abc
+There is 1 vowel.
+Producer: abc, 2
+Consumer: ijk
+There is 1 vowel.
+Producer: wxy, 24
+Consumer: abc
+There is 1 vowel.
+Producer: mno, 14
+Consumer: wxy
+No vowels.
+Producer: mno, 14
+Consumer: mno
+There is 1 vowel.
+Producer: tuv, 21
+Consumer: mno
+There is 1 vowel.
+Producer: ghi, 8
+Consumer: tuv
+There is 1 vowel.
+Producer: bcd, 3
+Consumer: ghi
+There is 1 vowel.
+Producer: lmn, 13
+Consumer: bcd
+No vowels.
+Producer: def, 5
+Consumer: lmn
+No vowels.
+Producer: uvw, 22
+Consumer: def
+There is 1 vowel.
+Producer: lmn, 13
+Consumer: uvw
+There is 1 vowel.
+Producer: mno, 14
+Consumer: lmn
+No vowels.
+Producer: lmn, 13
+Consumer: mno
+There is 1 vowel.
+Producer: rst, 19
+Consumer: lmn
+No vowels.
+Producer: mno, 14
+Consumer: rst
+No vowels.
+Producer: ijk, 10
+Consumer: mno
+There is 1 vowel.
+Producer: mno, 14
+Consumer: ijk
+There is 1 vowel.
+Producer: jkl, 11
+Consumer: mno
+There is 1 vowel.
+Producer: zab, 1
+Consumer: jkl
+No vowels.
+Producer: uvw, 22
+Consumer: zab
+There is 1 vowel.
+Producer: nop, 15
+Consumer: uvw
+There is 1 vowel.
+Producer: pqr, 17
+Consumer: nop
+There is 1 vowel.
+Producer: uvw, 22
+Consumer: pqr
+No vowels.
+Producer: rst, 19
+Consumer: uvw
+There is 1 vowel.
+Producer: nop, 15
+Consumer: rst
+No vowels.
+Producer: abc, 2
+Consumer: nop
+There is 1 vowel.
+Producer: hij, 9
+Consumer: abc
+There is 1 vowel.
+Producer: fgh, 7
+Consumer: hij
+There is 1 vowel.
+Producer: vwx, 23
+Consumer: fgh
+No vowels.
+Producer: ijk, 10
+Consumer: vwx
+No vowels.
+Producer: qrs, 18
+Consumer: ijk
+There is 1 vowel.
+Producer: yza, 26
+Consumer: qrs
+No vowels.
+Producer: ijk, 10
+Consumer: yza
+There is 1 vowel.
+Producer: efg, 6
+Consumer: ijk
+There is 1 vowel.
+Producer: lmn, 13
+Consumer: efg
+There is 1 vowel.
+Producer: cde, 4
+Consumer: lmn
+No vowels.
+Producer: nop, 15
+Consumer: cde
+There is 1 vowel.
+Producer: qrs, 18
+Consumer: nop
+There is 1 vowel.
+Producer: opq, 16
+Consumer: qrs
+No vowels.
+Producer: rst, 19
+Consumer: opq
+There is 1 vowel.
+Producer: lmn, 13
+Consumer: rst
+No vowels.
+Producer: def, 5
+Consumer: lmn
+No vowels.
+Producer: efg, 6
+Consumer: def
+There is 1 vowel.
+Producer: xyz, 25
+Consumer: efg
+There is 1 vowel.
+Producer: vwx, 23
+Consumer: xyz
+No vowels.
+Producer: tuv, 21
+Consumer: vwx
+No vowels.
+Producer: ghi, 8
+Consumer: tuv
+There is 1 vowel.
+Producer: klm, 12
+Consumer: ghi
+There is 1 vowel.
+Producer: efg, 6
+Consumer: klm
+No vowels.
+Producer: jkl, 11
+Consumer: efg
+There is 1 vowel.
+Producer: hij, 9
+Consumer: jkl
+No vowels.
+Producer: stu, 20
+Consumer: hij
+There is 1 vowel.
+Producer: zab, 1
+Consumer: stu
+There is 1 vowel.
+Producer: efg, 6
+Consumer: zab
+There is 1 vowel.
+Producer: mno, 14
+Consumer: efg
+There is 1 vowel.
+Producer: qrs, 18
+Consumer: mno
+There is 1 vowel.
+Producer: hij, 9
+Consumer: qrs
+No vowels.
+Producer: vwx, 23
+Consumer: hij
+There is 1 vowel.
+Producer: yza, 26
+Consumer: vwx
+No vowels.
+Producer: def, 5
+Consumer: yza
+There is 1 vowel.
+Producer: ghi, 8
+Consumer: def
+There is 1 vowel.
+Producer: pqr, 17
+Consumer: ghi
+There is 1 vowel.
+Producer: def, 5
+Consumer: pqr
+No vowels.
+Producer: pqr, 17
+Consumer: def
+There is 1 vowel.
+Producer: wxy, 24
+Consumer: pqr
+No vowels.
+Producer: rst, 19
+Consumer: wxy
+No vowels.
+Producer: stu, 20
+Consumer: rst
+No vowels.
+Producer: klm, 12
+Consumer: stu
+There is 1 vowel.
+Producer: ijk, 10
+Consumer: klm
+No vowels.
+Producer: klm, 12
+Consumer: ijk
+There is 1 vowel.
+Producer: efg, 6
+Consumer: klm
+No vowels.
+Producer: wxy, 24
+Consumer: efg
+There is 1 vowel.
+Producer: qrs, 18
+Consumer: wxy
+No vowels.
+Producer: klm, 12
+Consumer: qrs
+No vowels.
+Producer: uvw, 22
+Consumer: klm
+No vowels.
+Producer: opq, 16
+Consumer: uvw
+There is 1 vowel.
+Producer: ghi, 8
+Consumer: opq
+There is 1 vowel.
+Producer: efg, 6
+Consumer: ghi
+There is 1 vowel.
+Producer: zab, 1
+Consumer: efg
+There is 1 vowel.
+Producer: lmn, 13
+Consumer: zab
+There is 1 vowel.
+Producer: qrs, 18
+Consumer: lmn
+No vowels.
+Producer: klm, 12
+Consumer: qrs
+No vowels.
+Producer: ghi, 8
+Consumer: klm
+No vowels.
+Producer: stu, 20
+Consumer: ghi
+There is 1 vowel.
+Producer: pqr, 17
+Consumer: stu
+There is 1 vowel.
+Producer: uvw, 22
+Consumer: pqr
+No vowels.
+Producer: jkl, 11
+Consumer: uvw
+There is 1 vowel.
+Producer: abc, 2
+Consumer: jkl
+No vowels.
+Producer: qrs, 18
+Consumer: abc
+There is 1 vowel.
+Producer: klm, 12
+Consumer: qrs
+No vowels.
+Producer: efg, 6
+Consumer: klm
+No vowels.
+Producer: zab, 1
+Consumer: efg
+There is 1 vowel.
+Producer: def, 5
+Consumer: zab
+There is 1 vowel.
+Producer: klm, 12
+Consumer: def
+There is 1 vowel.
+Producer: stu, 20
+Consumer: klm
+No vowels.
+Producer: abc, 2
+Consumer: stu
+There is 1 vowel.
+Producer: fgh, 7
+Consumer: abc
+There is 1 vowel.
+Producer: nop, 15
+Consumer: fgh
+No vowels.
+Producer: mno, 14
+Consumer: nop
+There is 1 vowel.
+Producer: qrs, 18
+Consumer: mno
+There is 1 vowel.
+Producer: yza, 26
+Consumer: qrs
+No vowels.
+Producer: rst, 19
+Consumer: yza
+There is 1 vowel.
+Producer: opq, 16
+Consumer: rst
+No vowels.
+Producer: pqr, 17
+Consumer: opq
+There is 1 vowel.
+Producer: efg, 6
+Consumer: pqr
+No vowels.
+Producer: lmn, 13
+Consumer: efg
+There is 1 vowel.
+Producer: ghi, 8
+Consumer: lmn
+No vowels.
+Producer: mno, 14
+Consumer: ghi
+There is 1 vowel.
+Producer: stu, 20
+Consumer: mno
+There is 1 vowel.
+Producer: jkl, 11
+Consumer: stu
+There is 1 vowel.
+Producer: abc, 2
+Consumer: jkl
+No vowels.
+Producer: jkl, 11
+Consumer: abc
+There is 1 vowel.
+Producer: uvw, 22
+Consumer: jkl
+No vowels.
+Producer: ijk, 10
+Consumer: uvw
+There is 1 vowel.
+Producer: def, 5
+Consumer: ijk
+There is 1 vowel.
+Producer: mno, 14
+Consumer: def
+There is 1 vowel.
+Producer: def, 5
+Consumer: mno
+There is 1 vowel.
+Producer: pqr, 17
+Consumer: def
+There is 1 vowel.
+Producer: nop, 15
+Consumer: pqr
+No vowels.
+Producer: wxy, 24
+Consumer: nop
+There is 1 vowel.
+Producer: def, 5
+Consumer: wxy
+No vowels.
+Producer: vwx, 23
+Consumer: def
+There is 1 vowel.
+Producer: yza, 26
+Consumer: vwx
+No vowels.
+Producer: hij, 9
+Consumer: yza
+There is 1 vowel.
